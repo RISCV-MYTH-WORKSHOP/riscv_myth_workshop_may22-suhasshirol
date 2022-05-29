@@ -89,3 +89,16 @@ br />
    <br />
    <br />![11_CPU](https://user-images.githubusercontent.com/66528639/170826715-5f17e850-35e3-4374-9ba8-8e67e033e450.jpg)
    <br />RISC V CPU Design
+
+<br />**Day 5**
+ <br />** Complete Pipelined RISC-V CPU micro-architecture/store** <br />
+ <br />Implementation on TL-Verilog
+ <br />
+ <br />![Pipelined_RISCV](https://user-images.githubusercontent.com/66528639/170869456-76520c86-4d15-4117-a5b7-57224cb85ea9.jpg)
+  <br />Pipelined RISC-V CPU architecture
+  <br />
+  <br />![Pipelined_RISCV_code](https://user-images.githubusercontent.com/66528639/170869508-d6d120bb-c66e-4b6b-ad2f-f6754eb5faf1.jpg)
+  <br />Implemented Code of Pipelined RISC-V
+  <br />
+  <br />![Pipelined_RISCV_Simulation](https://user-images.githubusercontent.com/66528639/170869546-6f338700-dd72-40bc-83c6-570c5a38bcd4.jpg)
+ <br />Simulated results of Pipelined RISC -V
