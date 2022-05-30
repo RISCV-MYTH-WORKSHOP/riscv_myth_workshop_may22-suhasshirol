@@ -1,6 +1,6 @@
 # RISC-V_MYTH_Workshop
 <br />
-<br />![risc-v_banner](https://user-images.githubusercontent.com/66528639/171034038-2ba182a4-8db3-498d-954a-8a111abb741c.png)
+<br />![risc-v_banner](https://user-images.githubusercontent.com/66528639/171034143-07799d70-1626-46f7-947f-a5bd397344fe.png)
 **<br />Content of Workshop**
 **<br />Day 1 : Introduction to RISC-V ISA and GNU compiler toolchain
 
