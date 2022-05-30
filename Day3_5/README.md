@@ -131,3 +131,11 @@ br />
   <br />
   <br />![Pipelined_RISCV_Simulation](https://user-images.githubusercontent.com/66528639/170869546-6f338700-dd72-40bc-83c6-570c5a38bcd4.jpg)
  <br />Simulated results of Pipelined RISC -V
+ 
+ 
+ ## Report by
+** Suhas B Shirol, Assistant Professor, KLE Tech**
+
+## Acknowledgement
+**</br>.Kunal Ghosh, Co-founder, VLSI System Design (VSD) Corp. Pvt. Ltd.
+</br>Steeve Hoover, Founder, Redwood EDA**
