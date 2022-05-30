@@ -1,5 +1,35 @@
 # RISC-V_MYTH_Workshop
+<br />
+<br />![risc-v_banner](https://user-images.githubusercontent.com/66528639/171032757-e54681bb-c60f-4a86-b0d0-a28441a54018.png)
 
+**<br />Content of Workshop**
+**<br />Day 1 : Introduction to RISC-V ISA and GNU compiler toolchain
+
+<br />Part 1: Introduction to RISC-V basic keywords
+<br />Part 2: Labwork for RISC-V software toolchain
+<br />Part 3: Integer number representation
+<br />
+<br />Day 2: Introduction to ABI and basic verification flow
+<br />Part 1: Application Binary interface (ABI)
+<br />Part 2: Lab work using ABI function calls
+<br />Part 3: Basic verification flow using iverilog
+<br />
+<br />Day 3 : Digital Logic with TL-Verilog and Makerchip
+<br />Part 1: Combinational logic in TL-Verilog using Makerchip
+<br />Part 2: Sequential and pipelined logic
+<br />Part 3: Validity
+<br />Part 4: Hierarchy
+<br />
+<br />Day 4 : Basic RISC-V CPU micro-architecture
+<br />Part 1: Microarchitecture and testbench for a simple RISC-V CPU
+<br />Part 2: Fetch, decode, and execute logic
+<br />Part 3: RISC-V control logic
+<br />
+<br />Day 5 : Complete Pipelined RISC-V CPU micro-architecture/store
+<br />Part 1: Pipelining the CPU
+<br />Part 2: Load and store instructions and memory
+<br />Part 3: Completing the RISC-V CPU**
+<br />
 For students of "Microprocessor for You in Thirty Hours" Workshop, offered by for VLSI System Design (VSD) and Redwood EDA, find here accompanying live info and links.
 
 Refer to README at [stevehoover/RISC-V_MYTH_Workshop](https://github.com/stevehoover/RISC-V_MYTH_Workshop) for lab instructions.
