@@ -1,4 +1,8 @@
 <br />OSFPGA RISC-V Workshop
+<br />
+<br />The following repository contains all the information that's needed to a build a 4-stage Pipelined RISC-V Core which is designed during the RISC-V MYTH Workshop. The core supports the RV32I Base Integer Instruction Set. It is developed and implemented in TL-Verilog on Makerchip platform.
+<br />![risc-v_banner](https://user-images.githubusercontent.com/66528639/171032757-e54681bb-c60f-4a86-b0d0-a28441a54018.png)
+
 <br />**Day 1**
 <br />Introduction to RISC-V ISA and GNU compiler toolchain
 
